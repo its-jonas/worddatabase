@@ -10580,7 +10580,6 @@ dashboard
 malcolm
 nikki
 georgetown
-technorati
 esl
 norwich
 halls
@@ -10624,14 +10623,12 @@ asses
 altitude
 compass
 closet
-sch
 reebok
 couch
 evolved
 downs
 mfg
 exceeding
-jb
 rogue
 unfair
 blogthis
@@ -10655,7 +10652,6 @@ manuscript
 fixing
 motherboards
 gram
-blk
 hiding
 methodist
 inherent
@@ -19645,10 +19641,8 @@ mobilization
 dino
 xvid
 dmoz
-amt
 ivtools
 barron
-wilkins
 snorkeling
 chilean
 avs
