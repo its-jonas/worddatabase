@@ -9610,7 +9610,6 @@ ntsc
 cooked
 thriller
 transmit
-apnic
 fatty
 gerald
 pressed
