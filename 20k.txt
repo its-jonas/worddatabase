@@ -8106,7 +8106,6 @@ headline
 treating
 punch
 appointments
-str
 gotta
 cowboy
 narrative
