@@ -5531,7 +5531,6 @@ pentium
 quantum
 murray
 intent
-tt
 zoo
 largely
 pleasant
@@ -14630,7 +14629,6 @@ pains
 vioxx
 decatur
 wrapper
-tty
 ahmed
 bsc
 buchanan
@@ -17501,7 +17499,6 @@ amor
 xvi
 fungi
 phyllis
-ttl
 dreamy
 bengal
 backstage
@@ -19334,7 +19331,6 @@ creepy
 synth
 filthy
 subchapter
-ttf
 narrator
 optimizations
 infocus
