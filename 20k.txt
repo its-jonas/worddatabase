@@ -15922,10 +15922,8 @@ vikings
 crate
 kanye
 bootstrap
-wtf
 episcopal
 humane
-scm
 moonlight
 mast
 travelocity
@@ -15947,10 +15945,7 @@ cozy
 pussycat
 appropriated
 escherichia
-mallorca
 reversible
-spd
-oj
 slippers
 unclassified
 earthquakes
