@@ -2876,7 +2876,6 @@ rom
 carried
 happen
 exposure
-panasonic
 hide
 permalink
 signature
