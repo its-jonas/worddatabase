@@ -10570,7 +10570,6 @@ webb
 sensing
 mediation
 venus
-postgresql
 bump
 cowboys
 flames
@@ -18273,8 +18272,6 @@ reits
 muddy
 nuevo
 savanna
-crn
-hitchcock
 cid
 travestis
 neighbour
